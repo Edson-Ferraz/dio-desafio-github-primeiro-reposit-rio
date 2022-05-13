@@ -7,4 +7,7 @@ git branch - lista qual branch está
 git checkout nome -  muda o nome da branch
 git checkou -b "matriz" - permite mudar ou criar outra branch
 git merge "nome da branch" faz a junção de staging para matriz
-git pull - atualiza a branch ativa
+git pull - atualiza a branch 
+
+* Antes de fazer o merge, como boa pratica, deve ser baixar atualizações da nuvem
+git pull
